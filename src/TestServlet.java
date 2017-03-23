@@ -12,7 +12,7 @@ public class TestServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
 
 		PrintWriter out = response.getWriter();
-		out.println("works well with auto build");
+		out.println("works well with auto build2");
 
 	}
 
